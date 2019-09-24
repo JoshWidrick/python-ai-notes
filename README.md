@@ -10,4 +10,8 @@ Completed sub sections
 Work in progress sub sections
 ---
 - [NLTK (natural language toolkit) Notes](https://github.com/JoshWidrick/python-ai-notes/tree/master/nltk-notes)
+
+Upcoming/Planned sub sections
+---
+- Reinforcement Learning
  
