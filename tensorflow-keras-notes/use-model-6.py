@@ -14,6 +14,6 @@ def prepare(filepath):
 
 model = tf.keras.models.load_model('dog-v-cat-64x3-cnn.model')
 
-prediction = model.predict([prepare('jax.jpg')])
+prediction = model.predict([prepare('YOURPETIMAGE.jpg')])
 
 print('cat' if prediction == 1 else 'dog')
